@@ -5,3 +5,10 @@ getLength = function(stringLength){
 }
 
 getLength(theString);
+
+function getValue()
+{
+var x=document.getElementById("Clicko");
+x.innerHTML = "YOU DID IT YOU CLICKED ME!!";
+}
+
