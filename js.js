@@ -1,8 +1,7 @@
-var doIt = function(){
-	var theString = "Title of the Post";
-	document.write(theString.length);
+var theString = "Whatever you want the length of";
+getLength = function(stringLength){
+	
+	document.write(stringLength.length);
 }
 
-doIt();
-doIt();
-doIt();
+getLength(theString);
