@@ -3,3 +3,8 @@ body{
 	color: #1029A7;
 }
 
+
+canvas{
+	border: 1px solid #000000;
+	
+}

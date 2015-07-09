@@ -21,5 +21,3 @@ var y=document.getElementById("Click2");
 //document.write(x.outerHTML);
 y.outerHTML = '<h1 id="Clicko" onclick="getValue()">and again!</h1>';
 }
-
-rect(43,32,24,35);
